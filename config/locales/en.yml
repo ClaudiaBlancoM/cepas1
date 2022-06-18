@@ -31,3 +31,11 @@
 
 en:
   hello: "Hello world"
+  back:
+    wines: "Back to wines"
+
+  wines:
+    edit:
+      title: "Editing wine"
+    new:
+      title: "New wine"
