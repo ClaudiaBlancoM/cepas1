@@ -30,23 +30,4 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-   common:
-    name: "Name:"
-    title: "Wines"
-  back:
-    wines: "Back to wines"
-  show:
-    wine: "Show this wine"
-  new:
-    wine: "New wine"
-  edit:
-    wine: "Edit this wine"
-  destroy:
-    wine: "Destroy this wine"
-    
-    wines:
-    edit:
-      title: "Editing wine"
-    new:
-      title: "New wine"
-      title: "New wine" 
+  hello: "Hello world"
