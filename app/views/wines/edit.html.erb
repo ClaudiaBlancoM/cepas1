@@ -1,12 +1,9 @@
-<h1>Editing wine</h1>
 <h2><%= t('.title')%></h2>
-
 <%= render "form", wine: @wine %>
-
 <br>
 
 <div>
   <%= link_to "Show this wine", @wine %> |
-  <%= link_to "Back to wines", wines_path %>
+  <%= link_to t('show.wine'), @wine %> |
   <%= link_to t('back.wines'), wines_path %>
 </div>
